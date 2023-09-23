@@ -1,0 +1,7 @@
+D:\new____\_web\.Net\ChinthakaConsoleApp1\ChinthakaConsoleApp1\bin\Debug\ChinthakaConsoleApp1.exe.config
+D:\new____\_web\.Net\ChinthakaConsoleApp1\ChinthakaConsoleApp1\bin\Debug\ChinthakaConsoleApp1.exe
+D:\new____\_web\.Net\ChinthakaConsoleApp1\ChinthakaConsoleApp1\bin\Debug\ChinthakaConsoleApp1.pdb
+D:\new____\_web\.Net\ChinthakaConsoleApp1\ChinthakaConsoleApp1\obj\Debug\ChinthakaConsoleApp1.csproj.AssemblyReference.cache
+D:\new____\_web\.Net\ChinthakaConsoleApp1\ChinthakaConsoleApp1\obj\Debug\ChinthakaConsoleApp1.csproj.CoreCompileInputs.cache
+D:\new____\_web\.Net\ChinthakaConsoleApp1\ChinthakaConsoleApp1\obj\Debug\ChinthakaConsoleApp1.exe
+D:\new____\_web\.Net\ChinthakaConsoleApp1\ChinthakaConsoleApp1\obj\Debug\ChinthakaConsoleApp1.pdb
